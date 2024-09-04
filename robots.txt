@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rapuntich.github.io/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/app/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/assets/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/css/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/includes/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/item/sitemap.html.gz
+Sitemap: https://rapuntich.github.io/src/sitemap.html.gz
